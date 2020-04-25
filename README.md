@@ -1,2 +1,2 @@
 # vector
-Creating vector images look like broken glass.
+Creating vector images looking like broken glass.
